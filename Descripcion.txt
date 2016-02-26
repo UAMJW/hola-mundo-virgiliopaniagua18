@@ -1,0 +1,1 @@
+Este es un programa sencillo en c++ donde muestra un hola mundo al ejecutarse.
